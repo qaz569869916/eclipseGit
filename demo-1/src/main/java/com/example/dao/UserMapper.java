@@ -9,6 +9,6 @@ import com.example.pojo.User;
 @Mapper
 public interface UserMapper {
 	public List<User> queryAll();
-	//dhashdiua
+	//asudhakdadad
 	public User queryOne();
 }
